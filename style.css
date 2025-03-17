@@ -44,7 +44,7 @@ h1, h3, h5, .webtitle, .feature-title h1 {
     font-family: 'Staatliches', sans-serif;
     font-size: 16px;
     cursor: pointer;
-    border-radius: 20px;
+    border-radius: 10px;
     transition: 0.3s;
 }
 
@@ -93,6 +93,7 @@ h1, h3, h5, .webtitle, .feature-title h1 {
     font-size: 60px;
     font-weight: bold;
     align-items: center;
+    text-shadow: 0px 0px 10px #570202;
 }
 
 .hero-poster {
@@ -108,6 +109,7 @@ h1, h3, h5, .webtitle, .feature-title h1 {
 .feature-title {
     font-size: 30px;
     font-weight: bold;
+    text-shadow: 0px 0px 10px #570202;
 }
 
 .featuring-section {
